@@ -1,0 +1,14 @@
+.overwritebold {
+    font-weight:100;
+}
+.italics{
+    font-weight:100 ;
+    font-style: italic ;
+    color: gray;
+}
+.bold {
+    font-weight: bold;
+}
+.normal {
+    font-weight:100;
+}
